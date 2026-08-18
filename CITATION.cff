@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use these materials, please cite the associated paper and this repository."
+title: "Reproducibility materials for Contextuality under characterized loss"
+type: software
+authors:
+  - family-names: "Esmaili Zaghi"
+    given-names: "Arash"
+    orcid: "https://orcid.org/0000-0003-2246-2911"
+  - family-names: "Harel"
+    given-names: "Ofer"
+  - family-names: "Chen"
+    given-names: "Kun"
+    orcid: "https://orcid.org/0000-0003-3579-5467"
+repository-code: "https://github.com/esmarash/contextuality-under-characterized-loss"
+url: "https://github.com/esmarash/contextuality-under-characterized-loss"
+license: MIT
+date-released: 2026-08-18
+abstract: "Code, synthetic examples, benchmark outputs, validation records, and finite-sample and sensitivity analyses supporting the manuscript Contextuality under characterized loss: quantifying missing contextual information via channel-transported relative entropy."
